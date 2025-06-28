@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Home Page",
+    "section": "",
+    "text": "knitr::include_graphics(“size_v_weight.png”)"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
