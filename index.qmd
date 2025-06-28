@@ -1,4 +1,11 @@
 ---
 title: "My Home Page"
+execute: 
+  echo: false
 ---
 
+```{r}
+suppressPackageStartupMessages(library(tidyverse))
+library(knitr)
+knitr::include_graphics("size_v_weight.png")
+```
